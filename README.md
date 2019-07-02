@@ -1,0 +1,1 @@
+To compile successfully, comment the error lines in [src/api-type-check.ts](src/api-type-check.ts)
