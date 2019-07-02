@@ -1,0 +1,23 @@
+{
+  "name": "ts-api-type-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EqualMa/ts-api-type-check.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EqualMa/ts-api-type-check/issues"
+  },
+  "homepage": "https://github.com/EqualMa/ts-api-type-check#readme",
+  "devDependencies": {
+    "typescript": "^3.5.2"
+  }
+}
